@@ -1,0 +1,9 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "second practice file",
+  "main": "index.html",
+  "author": "kelly ngaruko",
+  "license": "MIT",
+  "private": true
+}

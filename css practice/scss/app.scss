@@ -1,0 +1,23 @@
+// Metrics
+$card-width: 444px;
+$card-height: 84px;
+$card-margin: 50px;
+$card-padding: 30px;
+$card-radius: 15px;
+$card-bg: $blue-dark;
+
+#page {
+	height: 100vh;
+  width: 100vw;
+  
+  #card{
+    width: $card-width;
+    height: $card-height;
+
+    margin: $card-margin auto;
+    padding: $card-padding;
+
+    border-radius: $card-radius;
+    background: $card-bg;
+  }
+}
